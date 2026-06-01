@@ -1,2 +1,26 @@
-# linux-home-lab
-Hands-on Linux administration and RHCSA practice environment built using Rocky Linux and VirtualBox.
+# Hi, I'm Jah-Gift!
+
+Computer Science student at VCU interested in Linux administration, systems engineering, and cybersecurity.
+
+## Currently Learning
+
+- Linux Administration
+- RHCSA Concepts
+- Systems Programming
+- Algorithms and Data Structures
+- Bash Scripting
+
+## Technologies
+
+- Java
+- C
+- SQL
+- Linux
+- Bash
+- JavaScript
+- GitHub
+
+## Current Projects
+
+- Linux Home Lab
+- RHCSA Practice Labs

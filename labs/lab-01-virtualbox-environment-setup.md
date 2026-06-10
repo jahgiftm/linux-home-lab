@@ -47,7 +47,7 @@ This lab provided hands-on experience creating and managing a virtualized enviro
 
 The screenshot below shows the VirtualBox environment used to create and manage Linux virtual machines for RHCSA practice.
 
-![VirtualBox Manager](../virtualbox-manager-rhel1.png)
+![VirtualBox Manager](../screenshots/virtualbox-manager-rhel1.png)
 
 ### Linux Terminal Access
 
@@ -59,4 +59,4 @@ ls.
 
 These commands were used to verify user identity, current working directory, and file system navigation.
 
-![Linux Terminal](../linux-terminal-first-login.png)
+![Linux Terminal](../screenshots/linux-terminal-first-login.png)

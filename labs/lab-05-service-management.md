@@ -25,7 +25,6 @@ Practice managing Linux services using systemctl.
 systemctl status sshd
 systemctl stop sshd
 systemctl start sshd
-systemctl restart sshd
 systemctl is-enabled sshd
 ```
 
@@ -41,3 +40,29 @@ systemctl is-enabled sshd
 ## Reflection
 
 This lab provided hands-on experience managing Linux services with systemctl. I practiced checking service status, stopping and starting services, and verifying whether a service is enabled to start automatically at boot. Understanding service management is important for Linux administration because many system functions depend on background services running correctly.
+
+## Screenshots
+
+### SSH Service Running
+
+The screenshot below demonstrates checking the SSH service status using `systemctl`.
+
+![SSHD Running Status](../screenshots/sshd-running-status.png)
+
+### SSH Service Stopped
+
+The screenshot below demonstrates stopping the SSH service and verifying that it is inactive.
+
+![SSHD Stopped Status](../screenshots/sshd-stopped-status.png)
+
+### SSH Service Started Again
+
+The screenshot below demonstrates starting the SSH service again and verifying that it is active.
+
+![SSHD Started Status](../screenshots/sshd-started-status.png)
+
+### SSH Service Enabled at Boot
+
+The screenshot below demonstrates checking whether the SSH service is enabled to start automatically at boot.
+
+![SSHD Enabled Status](../screenshots/sshd-enabled-status.png)

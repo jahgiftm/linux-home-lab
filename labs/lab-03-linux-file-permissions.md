@@ -45,7 +45,7 @@ This lab provided hands-on experience working with Linux file permissions and ow
 
 The screenshot below demonstrates viewing file permissions using the `ls -l` command.
 
-![Permissions Before](permissions-before.png)
+![Permissions Before](../screenshots/permissions-before.png)
 
 ### Modifying Permissions with chmod
 
@@ -61,7 +61,7 @@ and verifying the results with:
 ls -l testfile0
 ```
 
-![Permissions After](permissions-after.png)
+![Permissions After](../screenhsots/permissions-after.png)
 
 ### Changing Ownership with chown
 
@@ -77,4 +77,4 @@ and verifying ownership changes with:
 ls -l testfile0
 ```
 
-![Ownership Change](ownership-change.png) 
+![Ownership Change](../screenshots/ownership-change.png) 

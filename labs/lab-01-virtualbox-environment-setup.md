@@ -51,6 +51,12 @@ The screenshot below shows the VirtualBox environment used to create and manage 
 
 ### Linux Terminal Access
 
-The screenshot below shows successful access to the Linux terminal and execution of basic commands.
+The screenshot below shows successful access to the Linux terminal and execution of basic commands including:
+
+whoami
+pwd
+ls
+
+These commands were used to verify user identity, current working directory, and file system navigation.
 
 ![Linux Terminal](../linux-terminal-first-login.png)

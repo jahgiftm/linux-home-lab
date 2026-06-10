@@ -40,3 +40,17 @@ Create a virtualized environment using Oracle VirtualBox to support Linux admini
 ## Reflection
 
 This lab provided hands-on experience creating and managing a virtualized environment using VirtualBox. The experience strengthened my understanding of virtualization concepts, operating system deployment, troubleshooting, and system configuration.
+
+## Screenshots
+
+### VirtualBox Environment
+
+The screenshot below shows the VirtualBox environment used to create and manage Linux virtual machines for RHCSA practice.
+
+![VirtualBox Manager](../virtualbox-manager-rhel1.png)
+
+### Linux Terminal Access
+
+The screenshot below shows successful access to the Linux terminal and execution of basic commands.
+
+![Linux Terminal](../linux-terminal-first-login.png)

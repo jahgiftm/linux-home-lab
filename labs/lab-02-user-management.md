@@ -28,3 +28,17 @@ useradd
 passwd
 groups
 su
+
+## Screenshots
+
+### User Information Commands
+
+The screenshot below demonstrates user identification and group information commands.
+
+![User Information](../user-info-commands.png)
+
+### Creating a User Account
+
+The screenshot below demonstrates creating a Linux user account and verifying account information.
+
+![User Creation](../labuser0-created.png)

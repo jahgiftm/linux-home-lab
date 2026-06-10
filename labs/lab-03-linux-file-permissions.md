@@ -61,7 +61,7 @@ and verifying the results with:
 ls -l testfile0
 ```
 
-![Permissions After](../screenhsots/permissions-after.png)
+![Permissions After](../screenshots/permissions-after.png)
 
 ### Changing Ownership with chown
 

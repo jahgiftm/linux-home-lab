@@ -77,4 +77,4 @@ and verifying ownership changes with:
 ls -l testfile0
 ```
 
-![Ownership Change](../ownership-change.png)
+![Ownership Change](../ownership-change.png) 

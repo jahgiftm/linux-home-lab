@@ -53,9 +53,9 @@ The screenshot below shows the VirtualBox environment used to create and manage 
 
 The screenshot below shows successful access to the Linux terminal and execution of basic commands including:
 
-whoami
-pwd
-ls
+whoami,
+pwd,
+ls.
 
 These commands were used to verify user identity, current working directory, and file system navigation.
 
